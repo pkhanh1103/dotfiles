@@ -1,3 +1,5 @@
+% On Windows, edit %APPDATA%\octave\octaverc and source this script
+
 reset (groot)
 set (groot, "defaultlinelinewidth", 2);
 set (groot, "defaultaxesfontsize", 16);
