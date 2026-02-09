@@ -8,3 +8,5 @@ set expandtab
 
 set ignorecase
 set smartcase
+
+syntax on
